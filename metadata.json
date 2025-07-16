@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Copy of Copy of 專案管理系統 (Project Management System)",
+  "description": "一個現代化的專案管理工具，透過 Google 帳號登入，具備可自訂的人員與分類資料庫，支援複選辦理人與主管，並根據角色自動發送到期提醒。A modern project management tool with Google Sign-In, featuring customizable personnel and category databases, multi-selection for assignees and supervisors, and role-based automated due date reminders.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
